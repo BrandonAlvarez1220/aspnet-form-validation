@@ -1,0 +1,15 @@
+{
+  "name": "aspnet-form-validation",
+  "description": "Marketplace del plugin aspnet-form-validation",
+  "owner": {
+    "name": "Brandon Alvarez Garcia",
+    "url": "https://github.com/BrandonAlvarez1220"
+  },
+  "plugins": [
+    {
+      "name": "aspnet-form-validation",
+      "source": "./",
+      "description": "Checklist de validación de formularios ASP.NET Web Forms + Telerik/Kendo/HTML5 en tres capas: cliente, servidor y salida."
+    }
+  ]
+}

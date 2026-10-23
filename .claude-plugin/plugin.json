@@ -1,0 +1,12 @@
+{
+  "name": "aspnet-form-validation",
+  "version": "1.0.0",
+  "description": "Skill de validación de formularios para ASP.NET Web Forms (ASPX) con Telerik UI for ASP.NET AJAX, Kendo UI y HTML5: cliente, servidor y codificación de salida.",
+  "author": {
+    "name": "Brandon Alvarez Garcia",
+    "url": "https://github.com/BrandonAlvarez1220"
+  },
+  "homepage": "https://github.com/BrandonAlvarez1220/aspnet-form-validation",
+  "repository": "https://github.com/BrandonAlvarez1220/aspnet-form-validation",
+  "keywords": ["aspnet", "webforms", "aspx", "telerik", "kendo", "validation", "forms", "csharp", "sql-server"]
+}
